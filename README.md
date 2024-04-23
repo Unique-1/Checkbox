@@ -6,3 +6,6 @@ info from the clicked checkbox to the second page with print button in the secon
 
 ### home page
 ![home](/screenshot/home.jpeg/)
+
+### result page
+![result_page](/screenshot/result_page.jpeg/)
